@@ -3,3 +3,5 @@ nano .gitignore - how to write code to ignore something.
 *.dat
 
 results/
+
+!a.dat
